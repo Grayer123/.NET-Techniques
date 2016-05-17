@@ -1,0 +1,6 @@
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\PreventExceptionHandlingAbuse\bin\Debug\PreventExceptionHandlingAbuse.exe.config
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\PreventExceptionHandlingAbuse\bin\Debug\PreventExceptionHandlingAbuse.exe
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\PreventExceptionHandlingAbuse\bin\Debug\PreventExceptionHandlingAbuse.pdb
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\PreventExceptionHandlingAbuse\obj\Debug\PreventExceptionHandlingAbuse.csprojResolveAssemblyReference.cache
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\PreventExceptionHandlingAbuse\obj\Debug\PreventExceptionHandlingAbuse.exe
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\PreventExceptionHandlingAbuse\obj\Debug\PreventExceptionHandlingAbuse.pdb

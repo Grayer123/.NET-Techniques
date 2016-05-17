@@ -1,0 +1,6 @@
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\CustomException\bin\Debug\CustomException.exe
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\CustomException\bin\Debug\CustomException.pdb
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\CustomException\obj\Debug\CustomException.exe
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\CustomException\obj\Debug\CustomException.pdb

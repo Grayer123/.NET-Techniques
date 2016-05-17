@@ -1,0 +1,6 @@
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\InnerExceptions\bin\Debug\InnerExceptions.exe.config
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\InnerExceptions\bin\Debug\InnerExceptions.exe
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\InnerExceptions\bin\Debug\InnerExceptions.pdb
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\InnerExceptions\obj\Debug\InnerExceptions.exe
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\InnerExceptions\obj\Debug\InnerExceptions.pdb
+C:\Users\graye\Google Drive\Study\Cracking the coding\C#\ExceptionHandling\InnerExceptions\obj\Debug\InnerExceptions.csprojResolveAssemblyReference.cache
